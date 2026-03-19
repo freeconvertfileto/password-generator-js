@@ -2,7 +2,7 @@
 
 Generate cryptographically random passwords with configurable length, character sets, and quantity, plus integrated MD5/SHA hash generation and bcrypt hashing via bcryptjs, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/password-generator
+**Live Demo:** https://file-converter-free.com/en/developer-tools/password-generator-online
 
 ## How It Works
 
